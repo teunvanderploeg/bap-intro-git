@@ -1,2 +1,1 @@
-# bap intro git
- bap intro git
+Fakka teun, ik je heb readme gesloopt. LOLLL
